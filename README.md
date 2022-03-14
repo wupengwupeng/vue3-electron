@@ -34,14 +34,10 @@ yarn
 ### Compile and Hot-Reload for Development
 
 ```sh
-yarn dev
+yarn electron:dev
 ```
 
 ### Type-Check, Compile and Minify for Production
-
-```sh
-yarn build
-```
 
 ### Lint with [ESLint](https://eslint.org/)
 
